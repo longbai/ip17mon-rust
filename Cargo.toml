@@ -1,0 +1,6 @@
+[package]
+name = "ip17mon"
+version = "0.1.0"
+authors = ["slongbai <slongbai@gmail.com>"]
+
+#[dependencies]
